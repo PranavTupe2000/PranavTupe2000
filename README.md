@@ -1,4 +1,6 @@
-### Hi there 👋
+### I Write Code 👨‍💻
+
+<a href="https://app.daily.dev/RuneKingThor"><img src="https://api.daily.dev/devcards/aa851aa594994a14b42a269b0e7a6a1a.png?r=rld" width="400" alt="Pranav Tupe's Dev Card"/></a>
 
 <!--
 **PranavTupe2000/PranavTupe2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
